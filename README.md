@@ -1,7 +1,8 @@
 
 ## Project Title
 A Flutter template for login and user registration page
-[[[URL=https://uupload.ir/][IMG]https://s6.uupload.ir/files/login-ui-flutter-vishko_xxp0.png[/IMG][/URL]](https://s6.uupload.ir/files/login-ui-flutter-vishko_xxp0.png)](https://s6.uupload.ir/files/login-ui-flutter-vishko_xxp0.png)
+![Uploading login-ui-flutter-vishko.png…]()
+
 
 ## Attributes
 1-splash page
